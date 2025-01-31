@@ -1,16 +1,17 @@
-## Hi there 👋
+# My Data Analysis Portfolio - Angelina Nayak
 
-<!--
-**angelinanayak000/angelinanayak000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub portfolio!**
 
-Here are some ideas to get you started:
+Here are some of my projects organized by tool:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Excel
+
+* **FNP SALES ANALYSIS - MICROSOFT EXCEL:** <a href="https://github.com/angelinanayak000/FNP-Sales-Analysis-Excel-Dashboard">FNP SALES DASHBOARDt</a>
+
+## SQL
+
+* **EMPLOYEE DATA ANALYSIS - MYSQL:** <a href="https://github.com/angelinanayak000/mysql-employee-data-analysis-project1">FNP SALES DASHBOARDt</a>
+
+## Power BI
+
+## Python
