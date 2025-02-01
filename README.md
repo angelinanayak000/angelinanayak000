@@ -8,7 +8,7 @@ Here are some of my projects organized by tool:
 
 * **FNP SALES ANALYSIS:** <a href="https://github.com/angelinanayak000/FNP-Sales-Analysis-Excel-Dashboard">FNP SALES DASHBOARD</a>
 * **Sales Analysis Dashboard:** <a href="https://github.com/angelinanayak000/Excel---Sales-Dashboard-Data-Analysis">SALES DASHBOARD</a>
-* *Coffee Shop Sales:** <a href="https://github.com/angelinanayak000/Excel---Sales-Dashboard-Data-Analysis">Coffee Shop Sales Dashbo</a>
+* *Coffee Shop Sales:** <a href="https://github.com/angelinanayak000/Excel---Sales-Dashboard-Data-Analysis">Coffee Shop Sales Dashboard</a>
 
 ## SQL
 
