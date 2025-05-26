@@ -18,3 +18,4 @@ Here are some of my projects organized by tool:
 ## Power BI
 * **Blinkit Sales Analysis:** <a href="https://github.com/angelinanayak000/Blinkit-PowerBI-Dashboard/tree/main">Blinkit SALES DASHBOARD</a>
 
+## Python
