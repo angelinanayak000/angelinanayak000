@@ -19,3 +19,4 @@ Here are some of my projects organized by tool:
 * **Blinkit Sales Analysis:** <a href="https://github.com/angelinanayak000/Blinkit-PowerBI-Dashboard/tree/main">Blinkit SALES DASHBOARD</a>
 
 ## Python
+* **Data Cleaning Task (Elevate Labs):** <a href="https://github.com/angelinanayak000/elevate-labs-task1-data-cleaning">Task 1 (26/05/2025)</a>
