@@ -17,6 +17,7 @@ Here are some of my projects organized by tool:
 
 ## Power BI
 * **Blinkit Sales Analysis:** <a href="https://github.com/angelinanayak000/Blinkit-PowerBI-Dashboard/tree/main">Blinkit SALES DASHBOARD</a>
+* **FestMan Store Financial Analysis:** <a href="https://github.com/angelinanayak000/FestMan-Financial-Dashboard/tree/main">FestMan Store Financial Dashboard</a> 
 
 ## Python
 * **Data Cleaning Task (Elevate Labs):** <a href="https://github.com/angelinanayak000/elevate-labs-task1-data-cleaning">Task 1 (26/05/2025)</a>
